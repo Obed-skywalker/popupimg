@@ -1,0 +1,23 @@
+/*try*/
+.container{
+    background-color: #0e019b;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.btn{
+    cursor: pointer;
+    border-radius: 10px;
+    width: 80px;
+
+}
+.popup{
+    width: 200px;
+    height: 200px;
+    visibility: hidden;
+  
+}
+.open-popup{
+    visibility: visible;
+}
